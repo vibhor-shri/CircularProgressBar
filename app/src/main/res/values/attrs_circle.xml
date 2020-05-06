@@ -1,0 +1,8 @@
+<resources>
+    <declare-styleable name="circle">
+        <attr name="sampleString" format="string" />
+        <attr name="sampleDimension" format="dimension" />
+        <attr name="sampleColor" format="color" />
+        <attr name="sampleDrawable" format="color|reference" />
+    </declare-styleable>
+</resources>
